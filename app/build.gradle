@@ -3,6 +3,7 @@ plugins {
 }
 
 android {
+    namespace 'ir.azad222.jam' // فضای نام شما
     compileSdkVersion 34
 
     defaultConfig {
